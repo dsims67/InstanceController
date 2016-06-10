@@ -1,0 +1,4 @@
+name: InstanceController
+main: com.aetheriumwars.instancecontroller.InstanceController
+version: 0.1
+author: savior67
